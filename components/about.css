@@ -25,14 +25,18 @@ body {
 .title h1 {
   font-size: 64px;
   line-height: 68.55px;
+  margin-bottom: 15px;
 }
 .title p {
   width: 70%;
   font-size: 33px;
   line-height: 35.28px;
+  font-weight: 450;
+   padding-bottom: 25px;
 }
 
 .imges {
+  padding-bottom: 20px;
   width: 100%;
   overflow: hidden;
   display: flex;
@@ -58,13 +62,16 @@ body {
   display: flex;
   margin-top: 15px;
   justify-content: space-between;
+  padding-bottom: 130px;
 }
 .text1 {
   width: 790px;
   font-size: 35px;
   line-height: 39px;
+  font-weight: 450;
 }
 .text2 {
+  font-weight: 450;
   width: 790px;
   font-size: 35px;
   line-height: 39px;
@@ -76,6 +83,7 @@ body {
   overflow: hidden;
 }
 .header h1 {
+  margin-bottom: 30px;
   text-align: center;
   font-size: 40px;
 }
