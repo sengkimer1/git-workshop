@@ -13,7 +13,7 @@ body{
     width: 100%;
     height: 1200px;
     overflow: hidden;
-    background-image: url("/components/image/45aa0dc4d093c420bc76b3668cfbab33.jpeg");
+    background-image: url("../components/image/45aa0dc4d093c420bc76b3668cfbab33.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
