@@ -45,7 +45,7 @@ body {
 .imges-box1 {
   width: 65%;
   height: 650px;
-  background-image: url(/components/image/d18e05e880834a785d531b4a90158e84.jpeg);
+  background-image: url(/git-workshop/components/image/d18e05e880834a785d531b4a90158e84.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -53,7 +53,7 @@ body {
 .imges-box2 {
   width: 30%;
   height: 650px;
-  background-image: url(/components/image/058aba63ff0f1a1d6eaedd270031403d.jpeg);
+  background-image: url(/git-workshop/components/image/058aba63ff0f1a1d6eaedd270031403d.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -129,7 +129,7 @@ body {
       .imges-box1 {
         width: 100%;
         height: 400px;
-        background-image: url(/components/image/d18e05e880834a785d531b4a90158e84.jpeg);
+        background-image: url(/git-workshop/components/image/d18e05e880834a785d531b4a90158e84.jpeg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -138,7 +138,7 @@ body {
         width: 50%;
         margin-top: 30px;
         height: 300px;
-        background-image: url(/components/image/058aba63ff0f1a1d6eaedd270031403d.jpeg);
+        background-image: url(/git-workshop/components/image/058aba63ff0f1a1d6eaedd270031403d.jpeg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
