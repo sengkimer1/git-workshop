@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.container{
+    width: 100%;
+    overflow: hidden;
+}
+.box1{
+    width: 100%;
+    height:1200px;
+    background-image: url(abc.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.box2{
+    width: 100%;  
+     overflow: hidden;
+}
+.title{
+   width: 100%;
+  margin: 18% 8%;
+}
+.title p{
+    font-size: 25px;
+    line-height: 50px;
+}
+.title h1{
+    font-family: "Kaushan Script", cursive;
+    font-size: 30px;
+    line-height: 25px;
+}
+@media(width:768px){
+    .box2{
+        width: 100%;  
+         overflow: hidden;
+    }
+    .title{
+       width: 100%;
+      margin: 18% 8%;
+    }
+    .title p{
+        font-size: 25px;
+        line-height: 50px;
+    }
+    .title h1{
+        font-size: 30px;
+        line-height: 25px;
+    }
+}

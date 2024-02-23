@@ -1,6 +1,25 @@
-.btn-error{
-    color: red;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.btn-success {
-    color: green;
+button{
+    display: flex;
+    width: 15%;
+    height: 65px;
+    margin-top: 500px;
+    margin-left: 800px;
+}
+.btn{
+    background-color: #F9F9F9;
+    padding: 15px 80px;
+    color: black;
+    font-size: 23px;
+    border-radius: 50px;
+    border: 1px solid white;
+    font-weight: 800;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
 }
